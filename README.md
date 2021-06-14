@@ -1,2 +1,2 @@
 # Micromaster
-This is a repository where i publish my projects for this Micromaster
+Repository to publish projects done for the Micromaster: https://www.edx.org/micromasters/uc-san-diegox-data-science
